@@ -1,0 +1,3 @@
+here's your instructions
+create repository
+stage, commit, push, share
